@@ -1,7 +1,7 @@
 # WEATHER-APPLICATION
 
 
-### Steps
+### Overview
  * create an app
  * go to openweather.org, create an account and login and get api keys by clicking on profile
  * copy api key and keep it
@@ -14,8 +14,8 @@
  *  weather.css file to apply all styles and mediaquerys and its also responsive web site
  * In second file weather from components folder
  * And fetches  time for  every sec and displayes o UI.
- * Handles Every request and useffect and usestate hook to manage the state
- * fetch the current Weather Using openweathermap Api and manage their data  handles their reuests
+ * Handles Every request  useffect and usestate hook to manage the state effectively
+ * fetch the current Weather Using openweathermap Api and manage their data  handles their errors as well and covert the units kelvin to celcius
  * And Another file weatherDetails.jsx  to maintain Ui  components and details to display
 ### Wanna Try
   * If Have reference  click here : [https://weatherapp-ap.netlify.app/]
